@@ -94,12 +94,12 @@ I'm a **MERN Stack Developer** passionate about building fast, scalable, and rea
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shashikant-bhardwaj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
  <img src="https://streak-stats.demolab.com?user=shashikant-bhardwaj&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shashikant-bhardwaj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
 </p>
 
 ---
