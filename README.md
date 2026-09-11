@@ -1,118 +1,300 @@
-<h1 align="center">Hi there, I'm Shashikant 👋</h1>
-<h3 align="center">MERN Stack Developer | Building Real-Time, Scalable Web Applications</h3>
+<!-- ==================== HERO ==================== -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abhay+Pandey+%F0%9F%91%8B;Computer+Science+Undergraduate;Full-Stack+Developer;MERN+Stack+Developer;Building+AI-Powered+Web+Applications;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">
+Full Stack MERN Developer • Java DSA Enthusiast • Problem Solver
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React+%2B+Redux+Toolkit+Enthusiast;Real-Time+Apps+with+WebSockets;Exploring+GenAI+%26+LLMs" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=AbhayPandey-8i&style=for-the-badge&color=58A6FF" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shashikant-bhardwaj-1762733bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.bhardwajshashi531@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <!-- <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 </p>
 
 ---
 
-### 🚀 About Me
+# 🚀 About Me
 
-I'm a **MERN Stack Developer** passionate about building fast, scalable, and real-time web applications from the ground up — from database schema design to pixel-perfect, responsive UIs. I enjoy solving problems at the intersection of frontend polish and backend architecture, and I'm currently expanding into **Generative AI**, exploring how LLMs and AI-powered features can be integrated into modern full-stack products.
+```yaml
+name: Abhay Pandey
+location: India 🇮🇳
 
-- 🔭 Currently building full-stack projects with real-time features (WebSockets, live status, media uploads)
-- 🌱 Currently learning the fundamentals of **Generative AI** — LLMs, prompt engineering, and AI-integrated app development
-- 💬 Ask me about React, Redux Toolkit, Node.js/Express, MongoDB, or real-time app architecture
-- ⚡ Fun fact: I like turning "just an idea" into a working real-time product end to end
+currently_learning:
+  - Advanced MERN Stack
+  - System Design Fundamentals
+  - Next.js
+  - Payment Gateway Integration
 
----
+currently_building:
+  - Learning Management System (LMS)
 
-### 🛠️ Tech Stack
+interests:
+  - Full Stack Development
+  - Real Time Applications
+  - Open Source
+  - AI Integration
 
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
-
-**Backend & Database**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-</p>
-
-**Tools & Services**
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-**Currently Exploring**
-<p>
-  <img src="https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-</p>
+motto:
+  "Build → Break → Learn → Repeat"
+```
 
 ---
 
-### 💼 Projects
+# ⚡ Current Focus
 
-<table>
-  <tr>
-    <td width="100%">
-      <h4>🗨️ Real-Time Chat Application</h4>
-      <p>
-        A full-stack real-time messaging application built with the MERN stack, enabling instant one-on-one communication with a modern, responsive UI.
-      </p>
-      <b>Key Features:</b>
-      <ul>
-        <li>⚡ Real-time messaging powered by WebSockets — no page refresh needed</li>
-        <li>🗑️ Message deletion with instant sync across the conversation</li>
-        <li>🟢 Live online/active status indicator for users</li>
-        <li>🖼️ Profile picture upload and management via Cloudinary</li>
-        <li>🔐 Persistent chat history stored in MongoDB</li>
-        <li>📱 Fully responsive UI built with Tailwind CSS</li>
-      </ul>
-      <b>Tech Stack:</b> React · Redux Toolkit · Node.js · Express · MongoDB · Mongoose · WebSocket · Tailwind CSS · Cloudinary
-      <br/><br/>
-      <a href="https://chat-application-deployment-vqph.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-      <a href="https://github.com/shashikant-bhardwaj/chat-application-deployment.git"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-    </td>
-  </tr>
-</table>
-
-> More projects coming soon as I continue building and exploring GenAI-integrated applications.
+```text
+🟢 Solving DSA Problems Daily
+🟢 Building Production-Ready MERN Projects
+🟢 Learning Next.js
+🟢 Improving Backend Architecture Skills
+🟢 Preparing for SDE Roles
+```
 
 ---
 
-### 📊 GitHub Stats
+# 🛠 Tech Stack
+
+## Languages
 
 <p align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=shashikant-bhardwaj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/> -->
- <img src="https://streak-stats.demolab.com?user=shashikant-bhardwaj&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css"/>
 </p>
 
+## Frontend
+
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant-bhardwaj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/> -->
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,nextjs"/>
+</p>
+
+## Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+</p>
+
+## Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel"/>
+</p>
+
+## Additional Skills
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white"/>
+
 </p>
 
 ---
 
-### 📫 Connect With Me
+## RESUME:
+<a href="https://drive.google.com/file/d/1tgsiWs8lO6x-FejO2afVYRvnXtXNiWNF/view?usp=sharing">Shashikant-Resume<a/>
+
+# 🌟 Featured Projects 
+
+## 🎓 LMS - Online Learning
+<a href="https://lms-onlinelearning.onrender.com/">Live Link<a/>
+
+✅ Developed a full-stack Learning Management System using the MERN stack for managing online courses and learners
+
+✅ Implemented user authentication and role-based access for students and instructors
+
+✅ Deployed the application on Vercel for seamless full-stack functionality
+
+✅ Features :
+
+JWT Authentication,
+
+RTK Query,
+
+Course Management,
+
+Cloudinary Uploads,
+
+Mock Payments,
+
+Admin Dashboard,
+
+Lecture Management,
+
+Protected Routes,
+
+---
+
+## 💬 BlinkChat
+
+<a href="[srv-d9srpi8n74is739ai3j0](https://chat-application-deployment-vqph.onrender.com/)">Live Link<a/>
+
+Real-time chat platform built using Socket.io
+
+✅ Authentication
+
+✅ Real-time Messaging
+
+✅ Online Presence
+
+✅ Responsive UI
+
+---
+
+Movie discovery platform built using MERN
+
+✅ Authentication
+
+✅ Search Functionality
+
+✅ Dynamic Routing
+
+✅ API Integration
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shashikant-bhardwaj-1762733bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.bhardwajshashi531@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <!-- <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
-  <!-- <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=shashikant-bhardwaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em"
+src="https://github-readme-streak-stats.herokuapp.com/?user=shashikant-bhardwaj&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/shashikant-bhardwaj">shashikant-bhardwaj</a></i>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant-bhardwaj-8i&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+---
+
+# ⚡ Live Developer Snapshot
+
+<!-- LIVE-STATS:START -->
+| Metric | Value |
+|--------|-------|
+| 📦 Public Repos | **17** |
+| 👥 Followers | **5** |
+| ⭐ Total Stars | **0** |
+| 🍴 Total Forks | **0** |
+| 🟩 Total Contributions (this year) | **504** |
+
+### 🔥 Contribution Streak *(full year via GraphQL)*
+
+| 🟢 Current Streak | 🏆 Longest Streak | 💻 Total Active Days |
+|:-----------------:|:-----------------:|:--------------------:|
+| **97 days** | **97 days** | **163** |
+| 06/06 → 09/10 | 06/06 → 09/10 | this year |
+
+### 🗂️ Top Languages
+
+`JavaScript    ` ██████████████░░░░░░ 71%
+`Python        ` ██░░░░░░░░░░░░░░░░░░ 12%
+`HTML          ` █░░░░░░░░░░░░░░░░░░░ 6%
+`Java          ` █░░░░░░░░░░░░░░░░░░░ 6%
+`TypeScript    ` █░░░░░░░░░░░░░░░░░░░ 6%
+
+> ⏱️ *Auto-updated: Fri, 11 Sep 2026 10:47:14 GMT*
+<!-- LIVE-STATS:END -->
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shashikant-bhardwaj&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashikant-bhardwaj&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<!-- # 💻 Coding Profiles
+
+<div align="center">
+
+<a href="YOUR_LEETCODE_LINK">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="YOUR_GFG_LINK">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</div> -->
+
+---
+
+# 🏅 Certifications
+
+<a href="https://drive.google.com/file/d/13CrIauPfQQlVZQBRPg11-wJmkVHc2Mcm/view">
+
+### Google AI-ML Virtual Internship
+
+</a>
+
+EduSkills | AICTE | Oct–Dec 2025
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="www.linkedin.com/in/shashikant-bhardwaj-1762733bb">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my projects, consider starring them!
+
+Building • Learning • Shipping 🚀
+
+</div>
