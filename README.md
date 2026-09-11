@@ -137,9 +137,9 @@ Protected Routes,
 
 ---
 
-## 💬 BlinkChat
+## 💬 Chat Application
 
-<a href="[srv-d9srpi8n74is739ai3j0](https://chat-application-deployment-vqph.onrender.com/)">Live Link<a/>
+<a href="https://chat-application-deployment-vqph.onrender.com/">Live Link<a/>
 
 Real-time chat platform built using Socket.io
 
