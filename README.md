@@ -177,8 +177,7 @@ src="https://streak-stats.demolab.com/?user=shashikant-bhardwaj&theme=tokyonight
 </p>
 
 <p align="center">
-<img height="180em"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shashikant-bhardwaj&theme=tokyonight"/>
+
 
 <img height="180em"
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashikant-bhardwaj&theme=tokyonight"/>
