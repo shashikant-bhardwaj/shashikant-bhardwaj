@@ -179,7 +179,7 @@ src="https://streak-stats.demolab.com/?user=shashikant-bhardwaj&theme=tokyonight
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant-bhardwaj&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashikant-bhardwaj&theme=tokyonight"/>
 
 </p>
 
