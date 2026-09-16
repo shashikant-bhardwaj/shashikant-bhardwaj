@@ -172,7 +172,7 @@ Movie discovery platform built using MERN
 src="https://github-readme-stats.vercel.app/api?username=shashikant-bhardwaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="180em"
-src="https://github-readme-streak-stats.herokuapp.com/?user=shashikant-bhardwaj&theme=tokyonight&hide_border=true"/>
+src="https://streak-stats.demolab.com/?user=shashikant-bhardwaj&theme=tokyonight&hide_border=true"/>
 
 </p>
 
