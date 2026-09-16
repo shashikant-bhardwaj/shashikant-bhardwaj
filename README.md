@@ -164,7 +164,6 @@ Movie discovery platform built using MERN
 ✅ API Integration
 
 ---
-
 # 📊 GitHub Analytics
 
 <p align="center">
